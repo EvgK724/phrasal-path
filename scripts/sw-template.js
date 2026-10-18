@@ -1,6 +1,6 @@
 'use strict';
 
-const VERSION = '2026-10-18-p1';
+const VERSION = '2026-10-18-p2';
 const SCOPE = new URL(self.registration.scope);
 const CACHE_PREFIX = `phrasal-path-${encodeURIComponent(SCOPE.pathname)}-`;
 const CACHE = `${CACHE_PREFIX}${VERSION}`;

@@ -1,6 +1,6 @@
 (() => {
   'use strict';
-  const VERSION = '2026-10-18-p1';
+  const VERSION = '2026-10-18-p2';
   const footer = document.querySelector('#offline-host');
   if (!footer) return;
   const status = document.createElement('div');

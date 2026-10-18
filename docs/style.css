@@ -53,8 +53,8 @@ small,.small{font-size:16px}
 .hero-art .memory-tile{min-height:225px;border-radius:11px;border:0;background:radial-gradient(ellipse at top right,#3c5471 0,transparent 75%),#263345}
 .hero-art .particle-word{font-size:58px}
 .hero-art p{font-size:26px;overflow-wrap:anywhere}
-.detail-grid{grid-template-columns:180px minmax(0,1fr);align-items:start;gap:24px}
-.answer-grid{grid-template-columns:150px minmax(0,1fr)}
+.detail-grid{grid-template-columns:220px minmax(0,1fr);align-items:start;gap:24px}
+.answer-grid{grid-template-columns:200px minmax(0,1fr)}
 .answer-grid .memory-tile{min-height:150px;padding:18px}
 .answer-grid .particle-word{font-size:34px}
 .answer-grid .particle-arrow{font-size:30px}
