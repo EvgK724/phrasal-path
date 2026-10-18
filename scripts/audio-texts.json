@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "p001",
+    "en": "get up",
+    "example": "I get up earlier when I have a morning meeting."
+  },
+  {
+    "id": "p002",
+    "en": "wake up",
+    "example": "I usually wake up a few minutes before my alarm."
+  },
+  {
+    "id": "p003",
+    "en": "sit down",
+    "example": "Let's sit down and talk through the plan."
+  },
+  {
+    "id": "p004",
+    "en": "stand up",
+    "example": "We stood up when the speaker entered the room."
+  },
+  {
+    "id": "p005",
+    "en": "lie down",
+    "example": "After the long journey, I lay down for a while."
+  },
+  {
+    "id": "p006",
+    "en": "come in",
+    "example": "Come in and leave your coat by the door."
+  },
+  {
+    "id": "p007",
+    "en": "go out",
+    "example": "We don't go out much during the working week."
+  },
+  {
+    "id": "p008",
+    "en": "come back",
+    "example": "Come back when you have a little more time."
+  },
+  {
+    "id": "p009",
+    "en": "go back",
+    "example": "I had to go back to the hotel for my charger."
+  },
+  {
+    "id": "p010",
+    "en": "get back",
+    "example": "What time did you get back from London?"
+  },
+  {
+    "id": "p011",
+    "en": "get in",
+    "example": "Get in; I'll drive you to the station."
+  },
+  {
+    "id": "p012",
+    "en": "get out",
+    "example": "Wait until the taxi stops before you get out."
+  },
+  {
+    "id": "p013",
+    "en": "get on",
+    "example": "We got on the train just before the doors closed."
+  },
+  {
+    "id": "p014",
+    "en": "get off",
+    "example": "We need to get off at the next stop."
+  },
+  {
+    "id": "p015",
+    "en": "put on",
+    "example": "Put on a warm coat; it's windy outside."
+  },
+  {
+    "id": "p016",
+    "en": "take off",
+    "example": "Please take off your muddy shoes by the door."
+  },
+  {
+    "id": "p017",
+    "en": "turn on",
+    "example": "Can you turn on the projector before everyone arrives?"
+  },
+  {
+    "id": "p018",
+    "en": "turn off",
+    "example": "Please turn off the lights when you leave."
+  },
+  {
+    "id": "p019",
+    "en": "switch on",
+    "example": "She switched on the desk lamp and opened her notebook."
+  },
+  {
+    "id": "p020",
+    "en": "switch off",
+    "example": "I switched off the printer before leaving the office."
+  },
+  {
+    "id": "p021",
+    "en": "turn up",
+    "example": "Could you turn up the volume? I can't hear the speaker."
+  },
+  {
+    "id": "p022",
+    "en": "turn down",
+    "example": "Please turn down the music while we're talking."
+  },
+  {
+    "id": "p023",
+    "en": "pick up",
+    "example": "I'll pick up my sister from the station at eight."
+  },
+  {
+    "id": "p024",
+    "en": "put down",
+    "example": "Put down your bag and make yourself comfortable."
+  },
+  {
+    "id": "p025",
+    "en": "put away",
+    "example": "Please put away the clean dishes before dinner."
+  },
+  {
+    "id": "p026",
+    "en": "take out",
+    "example": "I took out my notebook and wrote down the address."
+  },
+  {
+    "id": "p027",
+    "en": "bring back",
+    "example": "Could you bring back the book when you next visit?"
+  },
+  {
+    "id": "p028",
+    "en": "give back",
+    "example": "I'll give back your umbrella tomorrow."
+  },
+  {
+    "id": "p029",
+    "en": "call back",
+    "example": "I'm in a meeting. I'll call back in twenty minutes."
+  },
+  {
+    "id": "p030",
+    "en": "pay back",
+    "example": "I'll pay back the money when I get my salary."
+  },
+  {
+    "id": "p031",
+    "en": "look for",
+    "example": "I'm looking for a quiet place to read."
+  },
+  {
+    "id": "p032",
+    "en": "look after",
+    "example": "My neighbour looks after our cat when we're away."
+  },
+  {
+    "id": "p033",
+    "en": "look up",
+    "example": "I looked up the word in an online dictionary."
+  },
+  {
+    "id": "p034",
+    "en": "find out",
+    "example": "I'll find out whether the course is still available."
+  },
+  {
+    "id": "p035",
+    "en": "work out",
+    "example": "We worked out the total cost before booking the trip."
+  },
+  {
+    "id": "p036",
+    "en": "figure out",
+    "example": "I finally figured out why the app kept closing."
+  },
+  {
+    "id": "p037",
+    "en": "fill in",
+    "example": "Please fill in your name and contact details."
+  },
+  {
+    "id": "p038",
+    "en": "fill out",
+    "example": "I filled out the registration form on my phone."
+  },
+  {
+    "id": "p039",
+    "en": "write down",
+    "example": "Write down the address before you forget it."
+  },
+  {
+    "id": "p040",
+    "en": "log out",
+    "example": "Remember to log out when you finish using the shared computer."
+  },
+  {
+    "id": "p041",
+    "en": "grow up",
+    "example": "I grew up in a small town near the mountains."
+  },
+  {
+    "id": "p042",
+    "en": "bring up",
+    "example": "Her grandparents brought her up in a small village."
+  },
+  {
+    "id": "p043",
+    "en": "give up",
+    "example": "He gave up smoking several years ago."
+  },
+  {
+    "id": "p044",
+    "en": "carry on",
+    "example": "We carried on walking despite the light rain."
+  },
+  {
+    "id": "p045",
+    "en": "go on",
+    "example": "Do you know what's going on outside?"
+  },
+  {
+    "id": "p046",
+    "en": "keep on",
+    "example": "She kept on trying until the instructions made sense."
+  },
+  {
+    "id": "p047",
+    "en": "hang on",
+    "example": "Hang on a moment; I'll find the right page."
+  },
+  {
+    "id": "p048",
+    "en": "hold on",
+    "example": "Hold on tightly when the boat starts moving."
+  },
+  {
+    "id": "p049",
+    "en": "hurry up",
+    "example": "We need to hurry up if we want to catch the train."
+  },
+  {
+    "id": "p050",
+    "en": "slow down",
+    "example": "Could you slow down? I'm still taking notes."
+  },
+  {
+    "id": "p051",
+    "en": "calm down",
+    "example": "I needed a few minutes to calm down before replying."
+  },
+  {
+    "id": "p052",
+    "en": "cheer up",
+    "example": "Her message cheered me up after a difficult day."
+  },
+  {
+    "id": "p053",
+    "en": "get along",
+    "example": "I get along well with the people in my team."
+  },
+  {
+    "id": "p054",
+    "en": "get on with",
+    "example": "Let's get on with the report while we have some quiet time."
+  },
+  {
+    "id": "p055",
+    "en": "fall out",
+    "example": "They fell out over how to organise the holiday."
+  },
+  {
+    "id": "p056",
+    "en": "make up",
+    "example": "He made up an excuse for being late."
+  },
+  {
+    "id": "p057",
+    "en": "break up",
+    "example": "They broke up after several years together."
+  },
+  {
+    "id": "p058",
+    "en": "meet up",
+    "example": "Let's meet up after work and go for a walk."
+  },
+  {
+    "id": "p059",
+    "en": "hang out",
+    "example": "We often hang out in the park after work."
+  },
+  {
+    "id": "p060",
+    "en": "stay in",
+    "example": "We're going to stay in and watch a film tonight."
+  },
+  {
+    "id": "p061",
+    "en": "eat out",
+    "example": "We eat out about twice a month."
+  },
+  {
+    "id": "p062",
+    "en": "take away",
+    "example": "Could you take away these empty boxes?"
+  },
+  {
+    "id": "p063",
+    "en": "wash up",
+    "example": "I'll wash up if you put the food in the fridge."
+  },
+  {
+    "id": "p064",
+    "en": "tidy up",
+    "example": "I need to tidy up my desk before the video call."
+  },
+  {
+    "id": "p065",
+    "en": "clean up",
+    "example": "We cleaned up the kitchen after making the cake."
+  },
+  {
+    "id": "p066",
+    "en": "clear up",
+    "example": "A short phone call cleared up the misunderstanding."
+  },
+  {
+    "id": "p067",
+    "en": "throw away",
+    "example": "Don't throw away that box; we can use it again."
+  },
+  {
+    "id": "p068",
+    "en": "run out of",
+    "example": "We've run out of coffee, so I'll buy some."
+  },
+  {
+    "id": "p069",
+    "en": "use up",
+    "example": "We used up all the printer paper during the workshop."
+  },
+  {
+    "id": "p070",
+    "en": "save up",
+    "example": "I'm saving up for a better laptop."
+  },
+  {
+    "id": "p071",
+    "en": "look forward to",
+    "example": "I'm looking forward to seeing you next week."
+  },
+  {
+    "id": "p072",
+    "en": "try on",
+    "example": "Can I try on this jacket in a larger size?"
+  },
+  {
+    "id": "p073",
+    "en": "try out",
+    "example": "We're trying out a new way of organising our notes."
+  },
+  {
+    "id": "p074",
+    "en": "take up",
+    "example": "I took up swimming when I moved closer to the pool."
+  },
+  {
+    "id": "p075",
+    "en": "give away",
+    "example": "We gave away the books we no longer needed."
+  },
+  {
+    "id": "p076",
+    "en": "sell out",
+    "example": "Tickets for the concert sold out in an hour."
+  },
+  {
+    "id": "p077",
+    "en": "show up",
+    "example": "Only six people showed up for the early session."
+  },
+  {
+    "id": "p078",
+    "en": "turn around",
+    "example": "I heard my name and turned around."
+  },
+  {
+    "id": "p079",
+    "en": "set off",
+    "example": "We set off early to avoid the busiest traffic."
+  },
+  {
+    "id": "p080",
+    "en": "get away",
+    "example": "I'd love to get away for a few days after this busy month."
+  },
+  {
+    "id": "p081",
+    "en": "check in",
+    "example": "We checked in at the hotel just after three."
+  },
+  {
+    "id": "p082",
+    "en": "check out",
+    "example": "We have to check out by eleven tomorrow."
+  },
+  {
+    "id": "p083",
+    "en": "move in",
+    "example": "We're moving in next Saturday."
+  },
+  {
+    "id": "p084",
+    "en": "move out",
+    "example": "We're moving out at the end of the month."
+  },
+  {
+    "id": "p085",
+    "en": "settle down",
+    "example": "It took me a few weeks to settle down in my new job."
+  },
+  {
+    "id": "p086",
+    "en": "come over",
+    "example": "Would you like to come over for dinner on Sunday?"
+  },
+  {
+    "id": "p087",
+    "en": "drop by",
+    "example": "I'll drop by your office after lunch."
+  },
+  {
+    "id": "p088",
+    "en": "log in",
+    "example": "You need to log in before you can save your notes."
+  },
+  {
+    "id": "p089",
+    "en": "stay up",
+    "example": "I stayed up late to finish the last chapter."
+  },
+  {
+    "id": "p090",
+    "en": "go away",
+    "example": "The problem won't go away if we ignore it."
+  },
+  {
+    "id": "p091",
+    "en": "sign up",
+    "example": "I've signed up for an evening photography course."
+  },
+  {
+    "id": "p092",
+    "en": "go ahead",
+    "example": "We can go ahead with the booking now that everyone has agreed."
+  },
+  {
+    "id": "p093",
+    "en": "look out",
+    "example": "Look out! That box is about to fall."
+  },
+  {
+    "id": "p094",
+    "en": "watch out",
+    "example": "Watch out for the low ceiling near the stairs."
+  },
+  {
+    "id": "p095",
+    "en": "put off",
+    "example": "We've put off the meeting until next Thursday."
+  },
+  {
+    "id": "p096",
+    "en": "call off",
+    "example": "They called off the outdoor event because of the storm."
+  },
+  {
+    "id": "p097",
+    "en": "take back",
+    "example": "I took back the jacket because it was too small."
+  },
+  {
+    "id": "p098",
+    "en": "fall over",
+    "example": "I almost fell over on the icy pavement."
+  },
+  {
+    "id": "p099",
+    "en": "cut down on",
+    "example": "I'm trying to cut down on unnecessary screen time."
+  },
+  {
+    "id": "p100",
+    "en": "warm up",
+    "example": "We warmed up for a few minutes before the game."
+  },
+  {
+    "id": "p101",
+    "en": "break down",
+    "example": "Our car broke down outside a small village."
+  },
+  {
+    "id": "p102",
+    "en": "break into",
+    "example": "Someone broke into the office during the night."
+  },
+  {
+    "id": "p103",
+    "en": "break out",
+    "example": "A fire broke out in the warehouse."
+  },
+  {
+    "id": "p104",
+    "en": "break through",
+    "example": "The water broke through the temporary barrier."
+  },
+  {
+    "id": "p105",
+    "en": "bring in",
+    "example": "The company brought in a simpler booking system."
+  },
+  {
+    "id": "p106",
+    "en": "bring out",
+    "example": "The publisher brought out a shorter edition."
+  },
+  {
+    "id": "p107",
+    "en": "bring about",
+    "example": "The new timetable brought about a real improvement."
+  },
+  {
+    "id": "p108",
+    "en": "bring along",
+    "example": "You can bring along a friend."
+  },
+  {
+    "id": "p109",
+    "en": "bring down",
+    "example": "Better planning helped us bring down the costs."
+  },
+  {
+    "id": "p110",
+    "en": "call for",
+    "example": "This situation calls for a calm response."
+  },
+  {
+    "id": "p111",
+    "en": "carry out",
+    "example": "The team carried out a small survey."
+  },
+  {
+    "id": "p112",
+    "en": "catch up",
+    "example": "I stayed late to catch up on my emails."
+  },
+  {
+    "id": "p113",
+    "en": "catch up with",
+    "example": "I caught up with an old friend over lunch."
+  },
+  {
+    "id": "p114",
+    "en": "catch on",
+    "example": "The new phrase quickly caught on online."
+  },
+  {
+    "id": "p115",
+    "en": "check over",
+    "example": "Could you check over this report before I send it?"
+  },
+  {
+    "id": "p116",
+    "en": "come across",
+    "example": "I came across a useful article in an old journal."
+  },
+  {
+    "id": "p117",
+    "en": "come up",
+    "example": "A useful question came up during the meeting."
+  },
+  {
+    "id": "p118",
+    "en": "come up with",
+    "example": "She came up with a practical solution."
+  },
+  {
+    "id": "p119",
+    "en": "come out",
+    "example": "Her new book came out last month."
+  },
+  {
+    "id": "p120",
+    "en": "come round",
+    "example": "Would you like to come round for tea?"
+  },
+  {
+    "id": "p121",
+    "en": "come down with",
+    "example": "I think I'm coming down with a cold."
+  },
+  {
+    "id": "p122",
+    "en": "come apart",
+    "example": "The handle came apart in my hand."
+  },
+  {
+    "id": "p123",
+    "en": "cut off",
+    "example": "The storm cut off the electricity."
+  },
+  {
+    "id": "p124",
+    "en": "cut out",
+    "example": "I want to cut out unnecessary meetings."
+  },
+  {
+    "id": "p125",
+    "en": "cut back",
+    "example": "We're trying to cut back on printing."
+  },
+  {
+    "id": "p126",
+    "en": "deal with",
+    "example": "I'll deal with the booking problem this afternoon."
+  },
+  {
+    "id": "p127",
+    "en": "do without",
+    "example": "We can do without a second car."
+  },
+  {
+    "id": "p128",
+    "en": "drop off",
+    "example": "Can you drop off the children at school?"
+  },
+  {
+    "id": "p129",
+    "en": "end up",
+    "example": "We ended up staying another night."
+  },
+  {
+    "id": "p130",
+    "en": "fall behind",
+    "example": "We fell behind with the paperwork."
+  },
+  {
+    "id": "p131",
+    "en": "fall for",
+    "example": "I nearly fell for that fake message."
+  },
+  {
+    "id": "p132",
+    "en": "fall apart",
+    "example": "Our plans fell apart when the venue closed."
+  },
+  {
+    "id": "p133",
+    "en": "follow up",
+    "example": "We need to follow up these enquiries tomorrow."
+  },
+  {
+    "id": "p134",
+    "en": "get across",
+    "example": "The diagram helped us get across the main point."
+  },
+  {
+    "id": "p135",
+    "en": "get around",
+    "example": "It's easy to get around by tram here."
+  },
+  {
+    "id": "p136",
+    "en": "get away with",
+    "example": "He thought he could get away with copying the report."
+  },
+  {
+    "id": "p137",
+    "en": "get by",
+    "example": "I can get by with basic French."
+  },
+  {
+    "id": "p138",
+    "en": "get down to",
+    "example": "Let's get down to planning the workshop."
+  },
+  {
+    "id": "p139",
+    "en": "get over",
+    "example": "It took me a week to get over that cold."
+  },
+  {
+    "id": "p140",
+    "en": "get through",
+    "example": "I finally got through to the booking office."
+  },
+  {
+    "id": "p141",
+    "en": "give in",
+    "example": "After a long discussion, he gave in."
+  },
+  {
+    "id": "p142",
+    "en": "give out",
+    "example": "The old battery gave out during the trip."
+  },
+  {
+    "id": "p143",
+    "en": "go over",
+    "example": "Let's go over the main points once more."
+  },
+  {
+    "id": "p144",
+    "en": "go through",
+    "example": "The team went through a difficult period."
+  },
+  {
+    "id": "p145",
+    "en": "go off",
+    "example": "My alarm went off at six."
+  },
+  {
+    "id": "p146",
+    "en": "go with",
+    "example": "This jacket goes with almost everything."
+  },
+  {
+    "id": "p147",
+    "en": "rule out",
+    "example": "The organisers ruled out an outdoor event."
+  },
+  {
+    "id": "p148",
+    "en": "hand in",
+    "example": "Please hand in your form by Friday."
+  },
+  {
+    "id": "p149",
+    "en": "hand out",
+    "example": "We handed out maps at the entrance."
+  },
+  {
+    "id": "p150",
+    "en": "hand over",
+    "example": "She handed over responsibility to her deputy."
+  },
+  {
+    "id": "p151",
+    "en": "hang up",
+    "example": "He said goodbye and hung up."
+  },
+  {
+    "id": "p152",
+    "en": "hold back",
+    "example": "She could hardly hold back her tears."
+  },
+  {
+    "id": "p153",
+    "en": "hold up",
+    "example": "A technical problem held up the meeting."
+  },
+  {
+    "id": "p154",
+    "en": "keep up",
+    "example": "It's hard to keep up this pace all week."
+  },
+  {
+    "id": "p155",
+    "en": "keep up with",
+    "example": "I read a weekly summary to keep up with new research."
+  },
+  {
+    "id": "p156",
+    "en": "keep out",
+    "example": "These thick curtains keep out the light."
+  },
+  {
+    "id": "p157",
+    "en": "leave out",
+    "example": "You left out one important detail."
+  },
+  {
+    "id": "p158",
+    "en": "let down",
+    "example": "I promised to help, and I don't want to let down the team."
+  },
+  {
+    "id": "p159",
+    "en": "look into",
+    "example": "We'll look into the cause of the delay."
+  },
+  {
+    "id": "p160",
+    "en": "look out for",
+    "example": "Please look out for the sign on the left."
+  },
+  {
+    "id": "p161",
+    "en": "look through",
+    "example": "I looked through the programme before booking."
+  },
+  {
+    "id": "p162",
+    "en": "look around",
+    "example": "We had time to look around before the lecture."
+  },
+  {
+    "id": "p163",
+    "en": "look back",
+    "example": "When I look back, I can see how much I've learnt."
+  },
+  {
+    "id": "p164",
+    "en": "look up to",
+    "example": "I look up to my first teacher."
+  },
+  {
+    "id": "p165",
+    "en": "look down on",
+    "example": "He never looks down on people with less experience."
+  },
+  {
+    "id": "p166",
+    "en": "make out",
+    "example": "I couldn't make out the last word."
+  },
+  {
+    "id": "p167",
+    "en": "make up for",
+    "example": "The extra help made up for the delay."
+  },
+  {
+    "id": "p168",
+    "en": "pass out",
+    "example": "A passenger passed out on the crowded train."
+  },
+  {
+    "id": "p169",
+    "en": "pass on",
+    "example": "Please pass on the message to the team."
+  },
+  {
+    "id": "p170",
+    "en": "pay off",
+    "example": "All that practice finally paid off."
+  },
+  {
+    "id": "p171",
+    "en": "point out",
+    "example": "She pointed out a mistake in the table."
+  },
+  {
+    "id": "p172",
+    "en": "pull over",
+    "example": "We pulled over to check the map."
+  },
+  {
+    "id": "p173",
+    "en": "put out",
+    "example": "The firefighters put out the fire."
+  },
+  {
+    "id": "p174",
+    "en": "put up",
+    "example": "We can put up two guests for the weekend."
+  },
+  {
+    "id": "p175",
+    "en": "put up with",
+    "example": "I can't put up with this constant noise."
+  },
+  {
+    "id": "p176",
+    "en": "put together",
+    "example": "I've put together a short reading list."
+  },
+  {
+    "id": "p177",
+    "en": "put aside",
+    "example": "I put aside a little money every month."
+  },
+  {
+    "id": "p178",
+    "en": "put back",
+    "example": "Please put back the books when you've finished."
+  },
+  {
+    "id": "p179",
+    "en": "put through",
+    "example": "Could you put the caller through to reception?"
+  },
+  {
+    "id": "p180",
+    "en": "run into",
+    "example": "I ran into my old neighbour at the station."
+  },
+  {
+    "id": "p181",
+    "en": "run away",
+    "example": "The dog ran away during the storm."
+  },
+  {
+    "id": "p182",
+    "en": "run over",
+    "example": "The driver nearly ran over a cyclist."
+  },
+  {
+    "id": "p183",
+    "en": "set up",
+    "example": "We set up a weekly reading group."
+  },
+  {
+    "id": "p184",
+    "en": "set out",
+    "example": "The document sets out our main priorities."
+  },
+  {
+    "id": "p185",
+    "en": "show off",
+    "example": "He kept showing off during the discussion."
+  },
+  {
+    "id": "p186",
+    "en": "sort out",
+    "example": "We sorted out the booking mistake before lunch."
+  },
+  {
+    "id": "p187",
+    "en": "stand for",
+    "example": "What does this abbreviation stand for?"
+  },
+  {
+    "id": "p188",
+    "en": "take after",
+    "example": "She takes after her father in her sense of humour."
+  },
+  {
+    "id": "p189",
+    "en": "take on",
+    "example": "I can't take on another project this month."
+  },
+  {
+    "id": "p190",
+    "en": "take over",
+    "example": "My colleague took over the project in June."
+  },
+  {
+    "id": "p191",
+    "en": "take in",
+    "example": "There was too much information to take in."
+  },
+  {
+    "id": "p192",
+    "en": "think over",
+    "example": "I'd like to think over your offer."
+  },
+  {
+    "id": "p193",
+    "en": "think through",
+    "example": "We need to think through the consequences."
+  },
+  {
+    "id": "p194",
+    "en": "turn out",
+    "example": "The problem turned out to be quite simple."
+  },
+  {
+    "id": "p195",
+    "en": "turn into",
+    "example": "The short chat turned into a long discussion."
+  },
+  {
+    "id": "p196",
+    "en": "turn over",
+    "example": "Please turn over the page to see the diagram."
+  },
+  {
+    "id": "p197",
+    "en": "wear out",
+    "example": "I've worn out my favourite walking shoes."
+  },
+  {
+    "id": "p198",
+    "en": "work on",
+    "example": "I'm working on my listening skills."
+  },
+  {
+    "id": "p199",
+    "en": "wrap up",
+    "example": "Let's wrap up the meeting with a quick summary."
+  },
+  {
+    "id": "p200",
+    "en": "back up",
+    "example": "Please back up your files before the update."
+  }
+]
